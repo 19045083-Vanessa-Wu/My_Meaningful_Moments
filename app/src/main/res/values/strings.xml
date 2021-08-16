@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Meaningful Moments</string>
+    <string name="location_date"><![CDATA[Location & Date (DD/M/YYYY)]]></string>
+    <string name="moment_title">Moment Title</string>
+    <string name="moment_title_hint">Enter Title of the Moment</string>
+    <string name="enter_place">Enter Place</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="description">Description</string>
+    <string name="description_hint">Enter Description of Moment</string>
+    <string name="rate_your_experience">Rate your Experience</string>
+    <string name="insert">Insert</string>
+    <string name="back_to_mainpage">Back to MainPage</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+</resources>
